@@ -1,1 +1,2 @@
-# Backend-Reto5-Ciclo4
+# Backend para catalogo online
+# Se utiliza Spring Data con MongoRepository
